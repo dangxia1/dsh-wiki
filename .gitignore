@@ -1,0 +1,9 @@
+# 依赖与构建产物（可随时重建）
+node_modules/
+docs/.vitepress/dist/
+docs/.vitepress/cache/
+
+# 本机 npm 假 home / 缓存 / 临时目录
+.cache/
+.home/
+.tmp/

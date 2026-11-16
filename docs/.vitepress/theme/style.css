@@ -1,0 +1,11 @@
+/* 全局微调：中文正文行高与字号 */
+.VPDoc.has-aside .content-container {
+  font-size: 16px;
+  line-height: 1.85;
+}
+
+/* 词条页"出处"引用块的样式，弱化显示 */
+.vp-doc blockquote {
+  font-size: 14px;
+  color: var(--vp-c-text-2);
+}
